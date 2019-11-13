@@ -4,7 +4,7 @@ For moon game server https://github.com/sniper00/moon.git
 
 ## build
 
-Depend
+Dependencies
 
 - Mysql C client
 - windows need set ENV `MYSQL_HOME`
